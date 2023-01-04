@@ -1,0 +1,2 @@
+1. Can't override 403 response code in get user request
+sol- can be fixed by overlapping __call__ magic method in auth_bearer file
